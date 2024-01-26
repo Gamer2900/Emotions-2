@@ -1,0 +1,17 @@
+body {
+    color: rgb(17, 63, 85);
+    background-color: rgb(255, 255, 255);
+  }
+  
+  .heading {
+    width:80%;
+    font-size:20px;
+  }
+  
+  .name_of_objects, #result_object_name, #result_object_accuracy {
+    color: rgb(50, 83, 121);
+  }
+  
+  #camará {
+    border:2px dashed solid rgb(14, 29, 49);
+  }
